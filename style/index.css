@@ -183,7 +183,7 @@
 }
 
 .lastimage {
-    background: url('/Flower Asset/Rectangle 9.png') center no-repeat;
+    background: url('../Flower Asset/Rectangle 9.png') center no-repeat;
     background-size: 100% 100%;
     width: 1060px;
     height: 300px;
